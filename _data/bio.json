@@ -19,9 +19,9 @@
     { "name": "Hawaiian language and culture revitalization" },
     { "name": "Education, outreach, and writing on Pacific Island studies" },
     { "name": "Genealogical research in archives focusing on Pacific and Hawaiian Kingdom era history" },
-    { "name": "Library and information science with a focus on archiving and digital preservation" }
-    { "name": "Indigenous methodologies and scholarship" }
-    { "name": "History of Oceania" }
+    { "name": "Library and information science with a focus on archiving and digital preservation" },
+    { "name": "Indigenous methodologies and scholarship" },
+    { "name": "History of Oceania" },
   ],
   "skills": [
     {
@@ -33,7 +33,7 @@
       "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
-  "education": [
+  "Education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computational Humanities (expected Summer, 2024)",
