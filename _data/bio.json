@@ -9,9 +9,9 @@
     "summary": "I am studying for a B.A. in Computational Humanities in the Department of Interdisciplinary Studies at the University of Hawaii. I expect to graduate in Summer, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "apaikai", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "apaikai", "URL": "http://linkedin.com/in/changeme" },
-      { "network": "instagram", "username": "alaipai", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "apaikai", "url": "http://github.com/apaikai" },
+      { "network": "linkedin", "username": "apaikai", "URL": "http://linkedin.com/in/apaikai" },
+      { "network": "instagram", "username": "alaipai", "url": "http://instagram.com/alaipai" }
     ]
   },
  "interests": [
