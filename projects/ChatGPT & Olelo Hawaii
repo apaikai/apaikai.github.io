@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/hawaii_logo.png
 title: "ChatGPT & ʻŌlelo Hawaiʻi"
-date: 01-01-2024
-published: false
+date: 2024-01-01
+published: true
 labels:
   - Large Language Model Building
   - Low Resource Language
