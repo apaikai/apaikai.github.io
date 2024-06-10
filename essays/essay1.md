@@ -12,6 +12,6 @@ labels:
   - Social Commentary
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/pg1.png">
+<img width="800px" class="rounded float-start pe-4" src="../img/pg1.png">
 
 
