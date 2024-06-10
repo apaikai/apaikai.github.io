@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: “'Hawaiian at Heart': Local Identities and the Perpetuation of Generational Trauma"
+title: "Hawaiian at Heart: Local Identities and the Perpetuation of Generational Trauma"
 
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-01
@@ -12,6 +12,6 @@ labels:
   - Social Commentary
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/pg1.png">
 
 
