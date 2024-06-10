@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/kuleana_logo.jpg
+image: img/kuleana_logo.png
 title: "Kuleana Land Project"
-date: 2024
+date: 01-01-2024
 published: true
 labels:
   - Land Research
