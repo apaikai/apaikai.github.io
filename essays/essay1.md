@@ -13,5 +13,12 @@ labels:
 ---
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/pg1.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg2.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg3.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg4.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg5.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg6.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg7.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/pg8.png">
 
 
