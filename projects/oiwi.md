@@ -6,9 +6,9 @@ title: "‘Ōiwi Archives Instagram Page"
 date: 2022-01-01
 published: true
 labels:
-  - Large Language Model Building
-  - Low Resource Language
-  - Language Revitalization
+  - Social Media
+  - Community Engagement
+  - Cultural Preservation
 summary: "Oiwi Archives is an Instagram page dedicated to preserving and sharing Hawaiian history and culture. Created during a research project, it features newspaper articles, films, photography, and magazines that have been forgotten over time. The page also addresses contemporary issues and advocacy related to Hawaii and the Pacific, sharing insights and engaging followers in discussions. With over 800 followers, Oiwi Archives connects enthusiasts and activists from the United States, New Zealand, Japan, and Canada, fostering a vibrant and interactive community."
 ---
 
