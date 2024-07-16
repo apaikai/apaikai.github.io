@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Race Against Time: Navigating the Social Landscape and Significance of 'Racial' Identities"
+title: "Unveiling Historical Silences: Critical Race Theory and Florida's House Bill Seven - 'Individual Freedom' / 'Stop W.O.K.E' Act"
 
 # All dates must be YYYY-MM-DD format!
-date: 2023-12-01
+date: 2023-08-2023
 published: true
 labels:
   - Race
@@ -12,12 +12,12 @@ labels:
   - History
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/2pg1.png">
-<img width="1000px" class="rounded float-start pe-4" src="../img/2pg2.png">
-<img width="1000px" class="rounded float-start pe-4" src="../img/2pg3.png">
-<img width="1000px" class="rounded float-start pe-4" src="../img/2pg4.png">
-<img width="1000px" class="rounded float-start pe-4" src="../img/2pg5.png">
-<img width="1000px" class="rounded float-start pe-4" src="../img/2pg6.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/3pg1.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/3pg2.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/3pg3.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/3pg4.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/3pg5.png">
+<img width="1000px" class="rounded float-start pe-4" src="../img/3pg6.png">
 
 
 
