@@ -4,7 +4,7 @@ type: essay
 title: "Unveiling Historical Silences: Critical Race Theory and Florida's House Bill Seven - 'Individual Freedom' / 'Stop W.O.K.E' Act"
 
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-2023
+date: 2023-08-18
 published: true
 labels:
   - Race
