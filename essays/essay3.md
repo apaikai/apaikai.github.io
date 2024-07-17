@@ -12,7 +12,7 @@ labels:
   - History
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/3pg1.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/3pg1.png">
 <img width="1000px" class="rounded float-start pe-4" src="../img/3pg2.png">
 <img width="1000px" class="rounded float-start pe-4" src="../img/3pg3.png">
 <img width="1000px" class="rounded float-start pe-4" src="../img/3pg4.png">
