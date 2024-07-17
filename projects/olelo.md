@@ -14,9 +14,9 @@ summary: "ChatGPT demonstrates considerable proficiency in handling various lang
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/ke.png" class="img-thumbnail">
-  <img width="200px" src="../img/kau.png" class="img-thumbnail">
-  <img width="200px" src="../img/papani.png" class="img-thumbnail">
+  <img width="400px" src="../img/ke.png" class="img-thumbnail">
+  <img width="400px" src="../img/kau.png" class="img-thumbnail">
+  <img width="400px" src="../img/papani.png" class="img-thumbnail">
 </div>
 
 Experiment Summary: Understanding Hawaiian Language Nuances with AI
