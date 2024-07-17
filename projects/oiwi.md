@@ -13,9 +13,9 @@ summary: "Oiwi Archives is an Instagram page dedicated to preserving and sharing
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/mahui.png" class="img-thumbnail">
+  <img width="300px" src="../img/mahui.png" class="img-thumbnail">
   <img width="300px" src="../img/archive.png" class="img-thumbnail">
-  <img width="400px" src="../img/lilu.png" class="img-thumbnail">
+  <img width="300px" src="../img/lilu.png" class="img-thumbnail">
 </div>
 
 Oiwi Archives Instagram page was initiated during a comprehensive research project where I discovered a treasure trove of historical materials, including newspaper articles, films, photography, and magazines that had faded into obscurity. My goal is to bring these lost pieces of Hawaiian history back into the spotlight, alongside discussing contemporary issues and advocacy relevant to Hawaii and the Pacific region.
