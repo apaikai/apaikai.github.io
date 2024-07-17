@@ -13,7 +13,21 @@ labels:
   - Indigenous Studies
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/4pg1.png">
+<style>
+  .centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .centered img {
+    max-width: 100%;
+  }
+</style>
+
+<div class="centered">
+  <img width="500px" class="rounded pe-4" src="../img/4pg1.png">
+</div>
 <img width="1000px" class="rounded float-start pe-4" src="../img/4pg2.png">
 <img width="1000px" class="rounded float-start pe-4" src="../img/4pg4.png">
 <img width="1000px" class="rounded float-start pe-4" src="../img/4pg5.png">
