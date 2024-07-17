@@ -13,9 +13,9 @@ summary: "Conducted extensive research using primary sources to trace the geneal
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/3570.png" class="img-thumbnail">
-  <img width="200px" src="../img/map.png" class="img-thumbnail">
-  <img width="200px" src="../img/award.png" class="img-thumbnail">
+  <img width="500px" src="../img/3570.png" class="img-thumbnail">
+  <img width="500px" src="../img/map.png" class="img-thumbnail">
+  <img width="500px" src="../img/award.png" class="img-thumbnail">
 </div>
 
 Over a 17-week period, I developed a comprehensive land title project focused on tracing the genealogy of land ownership from the time of the Great Mahele. Utilizing the 1929 indices of land awards, I tracked down data pertaining to the kuleana plot of my ancestor. Through this research, I was able to locate their land as well as identify two additional grants.
