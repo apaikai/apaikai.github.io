@@ -1,1 +1,23 @@
-
+.github
+_data
+_includes
+_layouts
+css
+essays
+img
+projects
+_blog       <-- New folder
+  - post1.md <-- Your first blog post
+  - post2.md <-- Your second blog post
+.gitignore
+.nojekyll
+404.html
+Gemfile
+Gemfile.lock
+LICENSE.md
+README.md
+_config.yml
+favicon.ico
+index.html
+resume.html
+robots.txt
