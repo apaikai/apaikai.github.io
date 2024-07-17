@@ -13,7 +13,7 @@ summary: "Conducted extensive research using primary sources to trace the geneal
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/3570.png" class="img-thumbnail">
+  <img width="300px" src="../img/3570.png" class="img-thumbnail">
   <img width="500px" src="../img/map.png" class="img-thumbnail">
   <img width="500px" src="../img/award.png" class="img-thumbnail">
 </div>
