@@ -14,29 +14,28 @@
       { "network": "instagram", "username": "alaipai", "url": "http://instagram.com/oiwiarchives" }
     ]
   },
- "interests": [
+ "Academic interests": [
     { "name": "Large language model building for low-resource and endangered languages" },
-    { "name": "Hawaiian language and culture revitalization" },
-    { "name": "Education, outreach, and writing on Pacific Island studies" },
-    { "name": "Genealogical research in archives focusing on Pacific and Hawaiian Kingdom era history" },
-    { "name": "Library and information science with a focus on archiving and digital preservation" },
-    { "name": "Indigenous methodologies and scholarship" },
-    { "name": "History of Oceania" }
+    { "name": "Hawaiian language research" },
+    { "name": "Connecting Historical and Contemporary Hawaiian Issues" },
+    { "name": "Indigenous history, methodologies, and scholarship" },
+    { "name": "Imperialism and Colonialism" },
+    { "name": "History of the Pacific" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
     }
   ],
   "Education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computational Humanities (expected Summer, 2024)",
+      "area": "Digital Humanities (expected Summer, 2024)",
       "studyType": "B.A.",
       "startDate": "2021-06-16",
       "endDate": "Present",
@@ -51,7 +50,7 @@
       "website": "",
       "startDate": "2022-01-01",
       "endDate": "Present",
-      "summary": "Processed orders and resolved technical issues within the network engineering department. ",
+      "summary": "Processed orders and resolve technical issues within the network engineering department. ",
       "highlights": [
         "Collaborated with companies to extend service to remote areas and worked with Hawaiian communities on Molokai to bridge technological gaps and improve connectivity.",
        
