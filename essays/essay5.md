@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "Remembering the ‘Great’ Mahele: Contextualizing Generational Trauma in Hawaiian Historical Memory
+title: "Beyond the Twilight: Decolonizing Native American Portrayals in Media
 "
 
 # All dates must be YYYY-MM-DD format!
-date: 2024-06-23
+date: 2024-04-25
 published: true
 labels:
-  - Hawaiian History
+  - Contemporary Media
   - Critical Analysis
   - Indigenous Studies
 ---
