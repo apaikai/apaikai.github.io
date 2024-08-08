@@ -4,7 +4,7 @@ type: project
 image: img/kuleana_logo.png
 title: "Kuleana Land Project"
 date: 2024-01-01
-published: true
+published: false
 labels:
   - Land Research
   - History of Hawaii
